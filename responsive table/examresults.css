@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body {
+	font-size: 14px;
+	font-family: serif;
+}
+
+body {
+	padding: 40px 10px;
+}
+
+#heading{
+
+	font-size: 30px;
+}
+
+.title {
+	text-transform: uppercase;
+	color: black;
+	border-width: 1px;
+}
+
+table {
+	border: 1px solid black;
+	width: 60%;
+	margin: 20px auto 0;
+	font-size: 1.5 rem;
+	color: black;
+	border-radius: 2px;
+	border-color: black;
+}
+
+table thead {
+	background-color: rgb(181, 134, 241);
+	border: 1px solid black;
+	padding: 4px 3px;
+	border-width: 1px;
+}
+
+#column{
+
+	background-color: rgb(162, 247, 162);
+}
+
+table th, table td {
+	border: 1px solid black;
+	padding: 4px 3px;
+	border-width: 1px;
+}
+
+.ftr {
+	background-color: rgba(230, 230, 208, 0.726);
+	border: 1px solid black;
+	padding: 4px 3px;
+	border-width: 1px;
+	font-weight: bold;
+}
+
+.s_number{
+text-decoration: underline;
+color: blue;
+
+}
